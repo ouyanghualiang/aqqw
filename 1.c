@@ -13,5 +13,6 @@ int main(void)
 	{
 		printf("%d\n",i);
 	}
+	printf("%0x\n",&i);
 	return 0;
 }
